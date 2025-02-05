@@ -30,7 +30,7 @@ code parts of each section/example of this tutorial.
 
 ## Neural Doodle & Style Transfer
 
-- <a target="_blank" href="https://markojerkic.com/style-transfer-keras/">Neural Style Transfer In Keras</a>
+- <a target="_blank" href="https://keras.io/examples/generative/neural_style_transfer/">Neural Style Transfer In Keras</a>
 
 ## Game Playing
 
